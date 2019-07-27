@@ -1,0 +1,38 @@
+body {
+	background-image: url("pr11.jpg");
+  /* background-color: lightblue; */
+}
+hr
+{
+	border-color: pink;
+}
+a
+{
+	color:red;
+}
+a:hover {
+  color: green;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+h
+{
+	color:black;
+}
+.v
+{
+	color:white;
+}
+h2
+{
+	/* color:#d22d56; */
+	color:red;
+}
+/* button
+{
+	background-color:brown;
+} */
